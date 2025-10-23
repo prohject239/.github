@@ -1,1 +1,1 @@
-[![Activate Now](badge_4abari9wy9g.png)](#)
+[![Activate Now](../badge_4abari9wy9g.png)](#)
