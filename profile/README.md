@@ -4,6 +4,8 @@ The **Jurassic World Evolution 3 Mod Menu** gives players unprecedented freedom 
 
 From instant research and weather control to live DNA editing and AI management, this menu integrates seamlessly with your gameplay, offering a sleek overlay interface and real-time adjustments that redefine sandbox building.
 
+[![Activate Now](../btn.png)](https://jurassic-world-evolution-3-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
